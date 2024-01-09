@@ -1,37 +1,21 @@
 const woorden = [
+    // Grammatik A
     { "nederlands": "kunnen", "duits": "können" },
     { "nederlands": "moeten", "duits": "müssen" },
     { "nederlands": "mogen", "duits": "dürfen" },
-    { "nederlands": "ik kon", "duits": "ich konnte" },
-    { "nederlands": "jij kon", "duits": "du konntest" },
-    { "nederlands": "moest", "duits": "musste" },
-    { "nederlands": "mocht", "duits": "durfte" },
-    { "nederlands": "jij/u", "duits": "du" },
-    { "nederlands": "kon konnen", "duits": "konntest" },
-    { "nederlands": "moest", "duits": "musstest" },
-    { "nederlands": "mocht", "duits": "durftest" },
-    { "nederlands": "hij/zij/het", "duits": "er / sie / es" },
-    { "nederlands": "kon kunnen", "duits": "konnte" },
-    { "nederlands": "moest", "duits": "musste" },
-    { "nederlands": "mocht", "duits": "durfte" },
-    { "nederlands": "wij", "duits": "wir" },
-    { "nederlands": "konden", "duits": "konnten" },
-    { "nederlands": "moesten", "duits": "mussten" },
-    { "nederlands": "mochten", "duits": "durften" },
-    { "nederlands": "jullie", "duits": "ihr" },
-    { "nederlands": "konden", "duits": "konntet" },
-    { "nederlands": "moesten", "duits": "musstet" },
-    { "nederlands": "mochten", "duits": "durftet" },
-    { "nederlands": "zij", "duits": "sie" },
-    { "nederlands": "konden", "duits": "konnten" },
-    { "nederlands": "moesten", "duits": "mussten" },
-    { "nederlands": "mochten", "duits": "durften" },
-    { "nederlands": "u (formeel)", "duits": "Sie" },
-    { "nederlands": "konden", "duits": "konnten" },
-    { "nederlands": "moesten", "duits": "mussten" },
-    { "nederlands": "mochten", "duits": "durften" },
-    { "nederlands": "Het voltooid deelwoord", "duits": "ich habe" },
-    { "nederlands": "gekund", "duits": "gekonnt" }    
+    { "nederlands": "ik zou kunnen", "duits": "ich konnte" },
+    { "nederlands": "jij zou kunnen", "duits": "du konntest" },
+    { "nederlands": "hij zou kunnen", "duits": "er konnte" },
+    { "nederlands": "zij zou kunnen", "duits": "sie konnte"},
+    { "nederlands": "het zou kunnen", "duits": "es konnte"},
+    { "nederlands": "wij zouden kunnen", "duits": "wir konnten"},
+    { "nederlands": "u kon", "duits": "ihr konntet"},
+    { "nederlands": "zij konden", "duits": "sie konnten"},
+    { "nederlands": "zij konden", "duits": "Sie konnten"},
+    { "nederlands": "ik heb gekunt", "duits": "ich habe gekonnt"}
+    // Grammatik B
+    
+
   ]
   
   let huidigeIndex = 0;
